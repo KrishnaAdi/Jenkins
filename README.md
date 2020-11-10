@@ -30,4 +30,5 @@ mvn release:perform
 First-test
 Second-test
 Second-test-1
+third-test
 
