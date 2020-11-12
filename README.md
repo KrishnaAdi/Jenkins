@@ -35,4 +35,5 @@ third-test-1
 fourth-test
 fourth-test-1
 check-1
+--test tag validation
 
