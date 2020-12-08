@@ -4,7 +4,7 @@
 
     <groupId>org.ea</groupId>
     <artifactId>VersioningDemo</artifactId>
-    <version>17.0.1-SNAPSHOT</version>
+    <version>18.0.0</version>
     
     <distributionManagement>
         <snapshotRepository>
@@ -27,7 +27,7 @@
         <connection>scm:git:https://github.com/KrishnaAdi/Testing.git</connection>
         <developerConnection>scm:git:https://github.com/KrishnaAdi/Testing.git</developerConnection>
         <url>https://github.com/KrishnaAdi/Testing</url>
-        <tag>@{project.version}</tag>
+        <tag>matlab-18.0.0</tag>
     </scm>
 
     <build>
